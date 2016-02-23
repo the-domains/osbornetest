@@ -1,14 +1,26 @@
-layout_spectrum: 0.827957
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9623656
-  lightness: 0.8584229
   brandStrength: 1
+  lightness: 0.8584229
   brandColors:
-    - '#FEFEFE'
-    - '#0B0C0E'
-    - '#878781'
-    - '#770C18'
-    - '#AC6D15'
+    - '#766F1E'
+    - '#2F3230'
+    - '#FFFFFF'
+    - '#0D0E0D'
+    - '#5C654C'
   rhythmicContrast: 0.7741935
 typography_spectrum: 0.07706093
+layout_spectrum: 0.827957
 name: Osbornetest
