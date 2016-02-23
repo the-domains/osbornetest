@@ -1,0 +1,14 @@
+layout_spectrum: 0.827957
+color:
+  saturation: 0.9623656
+  lightness: 0.8584229
+  brandStrength: 1
+  brandColors:
+    - '#FEFEFE'
+    - '#0B0C0E'
+    - '#878781'
+    - '#770C18'
+    - '#AC6D15'
+  rhythmicContrast: 0.7741935
+typography_spectrum: 0.07706093
+name: Osbornetest
