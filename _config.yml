@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.07706093
 color:
   saturation: 0.9623656
-  brandStrength: 0.4623656
+  brandStrength: 0.9157706
   lightness: 0.8584229
   brandColors:
-    - '#766F1E'
-    - '#2F3230'
-    - '#FFFFFF'
-    - '#0D0E0D'
-    - '#5C654C'
+    - '#161211'
+    - '#787167'
+    - '#FFFFFA'
+    - '#C9CBC6'
+    - '#BD562B'
   rhythmicContrast: 0.7741935
-layout_spectrum: 0.827957
+typography_spectrum: 0.6756272
+layout_spectrum: 0.9569892
 name: Osbornetest
