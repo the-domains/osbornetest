@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Osbornetest]]></title>
+        <description><![CDATA[Osbornetest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 01 Jun 2016 22:00:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bob Dylan]]></title>
+            <description><![CDATA[<article><h1>Bob Dylan</h1><p>More testing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1d8b2b79b4aa95dd554ab99fa6e956d6c884dc5.jpg"></article>]]></description>
+            <link>undefinedbob-dylan/index.html</link>
+            <guid isPermaLink="false">ddbeae84-6c60-4954-a8a2-066c019f517c</guid>
+            <pubDate>Wed, 01 Jun 2016 22:00:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
