@@ -14,10 +14,10 @@ description: A bit of fun exploring popular trends and two transformative makeup
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=HNUvnR81OMs'
 title: East Meets West - Makeup Trend Transformation Tutorial
-datePublished: '2016-06-01T22:10:48.919Z'
-dateModified: '2016-06-01T22:10:48.667Z'
+datePublished: '2016-06-02T15:51:21.769Z'
+dateModified: '2016-06-02T15:51:21.490Z'
 sourcePath: _posts/2016-06-01-east-meets-west-makeup-trend-transformation-tutorial.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
